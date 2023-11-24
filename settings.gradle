@@ -5,15 +5,6 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
-        maven {
-            url "https://www.jitpack.io"
-            credentials {
-                username authToken
-            }
-        }
-        maven {
-            url "https://maven.google.com"
-        }
         jcenter()
     }
 }
@@ -23,16 +14,6 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         jcenter()
-
-        maven {
-            url "https://www.jitpack.io"
-            credentials {
-                username authToken
-            }
-        }
-        maven {
-            url "https://github.com/jitsi/jitsi-maven-repository/raw/master/releases"
-        }
     }
 }
 rootProject.name = "papilonfpdapp"

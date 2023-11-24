@@ -40,8 +40,8 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("from_main", "true");
 
         // license parameters
-        intent.putExtra("token_for_license", "4ad37eebab1462c38867b73e2a4cf7d48144bf176c55716f3abc59e9ce8c61bde8160ab9a8580b54f52daa9b05f4b50d1cae");
-        intent.putExtra("license_id", "9");
+        intent.putExtra("token_for_license", "");
+        intent.putExtra("license_id", "");
         // ----------------------------------------------------------------
 
         startActivity(intent);
