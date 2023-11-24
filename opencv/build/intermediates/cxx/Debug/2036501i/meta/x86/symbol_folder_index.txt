@@ -1,0 +1,1 @@
+/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/build/intermediates/cxx/Debug/2036501i/obj/x86

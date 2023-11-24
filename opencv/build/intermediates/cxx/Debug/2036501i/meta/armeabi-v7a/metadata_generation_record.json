@@ -1,0 +1,128 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 865081595
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/.cxx/Debug/2036501i/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -752838796
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/.cxx/Debug/2036501i/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 801985738
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/.cxx/Debug/2036501i/armeabi-v7a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1609114296
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -265037205
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/.cxx/Debug/2036501i/armeabi-v7a\u0027",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -226127977
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/.cxx/Debug/2036501i/armeabi-v7a\u0027",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 781176075
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /Users/furkanyildiz/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/furkanyildiz/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/build/intermediates/cxx/Debug/2036501i/obj/armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/build/intermediates/cxx/Debug/2036501i/obj/armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/.cxx/Debug/2036501i/armeabi-v7a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1545482368
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /Users/furkanyildiz/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/furkanyildiz/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/build/intermediates/cxx/Debug/2036501i/obj/armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/build/intermediates/cxx/Debug/2036501i/obj/armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/.cxx/Debug/2036501i/armeabi-v7a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidfingerdetectionapp-whuaweiApi/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2020446815
+  }
+]

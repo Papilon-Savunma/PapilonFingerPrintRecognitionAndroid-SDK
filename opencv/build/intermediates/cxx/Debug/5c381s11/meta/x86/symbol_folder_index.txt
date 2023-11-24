@@ -1,0 +1,1 @@
+/Users/furkanyildiz/Desktop/FY/PAPILON/androidfingerdetectionapp/opencv/build/intermediates/cxx/Debug/5c381s11/obj/x86

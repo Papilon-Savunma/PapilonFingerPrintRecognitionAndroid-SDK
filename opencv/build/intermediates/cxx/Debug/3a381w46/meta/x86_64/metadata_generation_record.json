@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -896946625
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/.cxx/Debug/3a381w46/x86_64/android_gradle_build.json due to:",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1102895341
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/.cxx/Debug/3a381w46/x86_64/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -232618775
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/.cxx/Debug/3a381w46/x86_64/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1095589223
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2097456566
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/.cxx/Debug/3a381w46/x86_64\u0027",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2239562
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/.cxx/Debug/3a381w46/x86_64\u0027",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1999013590
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /Users/furkanyildiz/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/furkanyildiz/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/build/intermediates/cxx/Debug/3a381w46/obj/x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/build/intermediates/cxx/Debug/3a381w46/obj/x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/.cxx/Debug/3a381w46/x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -254088661
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /Users/furkanyildiz/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/furkanyildiz/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/furkanyildiz/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/build/intermediates/cxx/Debug/3a381w46/obj/x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/build/intermediates/cxx/Debug/3a381w46/obj/x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/.cxx/Debug/3a381w46/x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1723839338
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/.cxx/Debug/3a381w46/x86_64/compile_commands.json.bin normally",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1397737777
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1885164479
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/.cxx/Debug/3a381w46/x86_64/metadata_generation_command.txt",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -628861091
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -471729733
+  }
+]

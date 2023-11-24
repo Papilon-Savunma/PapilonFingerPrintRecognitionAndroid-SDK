@@ -1,0 +1,8 @@
+org.opencv-pngs-0 /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/build/generated/res/pngs/release
+org.opencv-resValues-1 /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/build/generated/res/resValues/release
+org.opencv-rs-2 /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/build/generated/res/rs/release
+org.opencv-mergeReleaseResources-3 /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+org.opencv-mergeReleaseResources-4 /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+org.opencv-merged_res-5 /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/build/intermediates/merged_res/release
+org.opencv-java-6 /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/java/res
+org.opencv-release-7 /Users/furkanyildiz/Desktop/FY/PAPILON/FINGERDETECTION/androidFingerDetectionSDK/opencv/src/release/res
