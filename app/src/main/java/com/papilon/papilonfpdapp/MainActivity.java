@@ -11,8 +11,12 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.papilon.papilonfinger.view.pap_DetectorActivity;
+import com.papilon.papilonfinger.model.pap_FingerPrintImages;
+
 
 public class MainActivity extends AppCompatActivity {
+    pap_FingerPrintImages fingerPrintImages = pap_FingerPrintImages.getInstance();
+
     Button openSdkButton;
     TextView textView;
 
@@ -21,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        getFingerImages();
 
         openSdkButton = findViewById(R.id.button);
         textView = findViewById(R.id.textView);
@@ -45,6 +51,25 @@ public class MainActivity extends AppCompatActivity {
         // ----------------------------------------------------------------
 
         startActivity(intent);
+    }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+
+        getFingerImages();
+    }
+
+    public String getFingerImages() {
+        String result =
+                "{'left_index': " + String.valueOf(fingerPrintImages.getIndexFinger()) +
+                        "'left_middle': " + String.valueOf(fingerPrintImages.getMiddleFinger()) +
+                        "'left_ring': " + String.valueOf(fingerPrintImages.getRingFinger()) +
+                        "'left_pinky': " + String.valueOf(fingerPrintImages.getLittleFinger()) + "}";
+
+        System.out.println(result);
+
+        return result;
     }
 }
 

@@ -50,7 +50,7 @@ Papilon FingerPrintRecognizer is an android app sdk.
         implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
     
         //----------------
-        implementation files('../app/libs/fingerPrintDetector.aar')
+        implementation files('../app/libs/fingerPrintRecognizer.aar')
         implementation project(path: ':opencv')
         //----------------
     ```
@@ -65,7 +65,7 @@ Papilon FingerPrintRecognizer is an android app sdk.
     <i>
 
     ```JAVA
-        implementation files('../app/libs/fingerPrintDetector.aar')
+        implementation files('../app/libs/fingerPrintRecognizer.aar')
         implementation project(path: ':opencv')
     ```
     </i>
@@ -224,7 +224,7 @@ Papilon FingerPrintRecognizer is an android app sdk.
 
 <br>
 
-* <b><i>You can see an example project and "fingerPrintDetector.aar" folder in this sdk</i></b>
+* <b><i>You can see an example project and "fingerPrintRecognizer.aar" folder in this sdk</i></b>
 
 <br><br>
 
