@@ -5,6 +5,15 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
+        maven {
+            url "https://www.jitpack.io"
+            credentials {
+                username authToken
+            }
+        }
+        maven {
+            url "https://maven.google.com"
+        }
         jcenter()
     }
 }

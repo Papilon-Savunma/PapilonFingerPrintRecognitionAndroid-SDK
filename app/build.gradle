@@ -71,7 +71,10 @@ dependencies {
     implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 
     //----------------
+
+
     implementation files('../app/libs/fingerPrintRecognizer.aar')
+
     implementation project(path: ':opencv')
     //----------------
 }
